@@ -40,7 +40,7 @@ int CountOfEvenNumbers(int[] array)
     return count;
 }
 
-int[] array = new int[10];
+int[] array = new int[4];
 
 FillArray(array);
 PrintArray(array);
